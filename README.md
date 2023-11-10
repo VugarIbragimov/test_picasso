@@ -3,11 +3,11 @@
 # **Picasso**
 
 ### **Стек**
-![python version](https://img.shields.io/badge/Python-3.9.6-green)
-![django version](https://img.shields.io/badge/Django-4.2.7-blue)
-![celery version](https://img.shields.io/badge/Celery-4.2.7-blue)
-![redis version](https://img.shields.io/badge/Redis-4.2.7-blue)
-![docker version](https://img.shields.io/badge/Docker-4.2.7-blue)
+![python version](https://img.shields.io/badge/Python-3.9.6-red)
+![django version](https://img.shields.io/badge/DRF-3.14.0-blue)
+![celery version](https://img.shields.io/badge/Celery-5.2.4-green)
+![redis version](https://img.shields.io/badge/Redis-4.6.0-brown)
+![docker version](https://img.shields.io/badge/Docker-20.10.7-blue)
 
 ### **Запуск проекта с помощью Docker**
 

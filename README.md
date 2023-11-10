@@ -34,17 +34,17 @@ docker-compose up --build
 
 ## Post-запрос на загрузку файла (Postman):
 
-![p_1](/img/p_1.jpeg)
+![p_1](/img/p_1.jpg)
 
 ### Ответ:
 
-![p_2](/img/p_2.jpeg)
+![p_2](/img/p_2.jpg)
 
 ## Get-запрос на получение файлов (Postman):
 
-![p_3](/img/g_1.jpeg)
+![p_3](/img/g_1.jpg)
 
 
 ### Ответ:
 
-![p_4](/img/g_2.jpeg)
+![p_4](/img/g_2.jpg)
